@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zampp+Api</string>
+    <string name="dialogTitle">Delete Car</string>
+    <string name="dialogMessage">please select update or delete</string>
+    <string-array name="FuelType">
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+
+    </string-array>
+</resources>
